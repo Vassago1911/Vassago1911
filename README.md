@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vassago1911, aka Marc :)
 - 👀 I’m interested in Math, Python, Data, Games, Science, Blender, .. lots of things ;)
-- 🌱 I’m currently learning: mostly Blender
+- 🌱 I’m currently learning: Docker, Elm, DevOps, Security,..
 - 📫 How to reach me: preferred is always email marc@lange-data.org
 
 <!---
