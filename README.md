@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Vassago1911, aka Marc :)
-- 👀 I’m interested in Math, Python, Data, Games, Science, Blender, .. lots of things ;)
-- 🌱 I’m currently learning: Docker, Elm, DevOps, Security,..
-- 📫 How to reach me: preferred is always email marc@lange-data.org
+- 👋 Hi, I’m @Vassago1911, aka Marc, M, V :)
+- 👀 I’m interested in Math, Python, Data, Games, Science, Elm, Blender, .. and more
+- 🌱 I’m currently improving on: Elm, DevOps, Security,..
+- 📫 How to reach me: preferred is always email m@lange-data.org
 
 <!---
 Vassago1911/Vassago1911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
